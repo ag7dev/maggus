@@ -1,0 +1,2 @@
+py maggu.py
+pause
