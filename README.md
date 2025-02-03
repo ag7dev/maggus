@@ -15,13 +15,6 @@
 - 📊 **Performance Metrics**: Built-in FPS counter and system monitoring
 - ⚙️ **Customizable Settings**: Adjustable confidence thresholds & bounding boxes
 
-## 🚀 Installation
-```bash
-git clone https://github.com/YourUsername/Maggu-Aimbot.git
-cd Maggu-Aimbot
-pip install -r requirements.txt
-```
-
 ## System Requirements:
 - NVIDIA GPU with CUDA 11.x (recommended)
 - Windows 10/11
